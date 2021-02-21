@@ -187,8 +187,8 @@ body {
 	 border-bottom: 1px solid #d8d8d8;
 }
  .ft-recipe .ft-recipe__content .content__header .row-wrapper .recipe-title {
-	 font-family: var(--headlinesFont);
-	 font-weight: 600;
+	 font-family: var(--bodyFont);
+	 font-weight: 400;
 }
  .ft-recipe .ft-recipe__content .content__header .recipe-details {
 	 display: flex;
